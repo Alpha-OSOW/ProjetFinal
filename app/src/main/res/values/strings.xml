@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nations</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="string_accueil">Accueil</string>
+    <string name="string_pays">Pays</string>
+
+    <string name="open_drawer">Open  navigation drawer</string>
+    <string name="close_drawer">Close  navigation drawer</string>
+
+
+</resources>

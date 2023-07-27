@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:checkable="true"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/string_accueil" />
+    <item
+        android:id="@+id/paysListFragment"
+        android:checkable="true"
+        android:icon="@drawable/baseline_flag_circle_24"
+        android:title="@string/string_pays" />
+</menu>
